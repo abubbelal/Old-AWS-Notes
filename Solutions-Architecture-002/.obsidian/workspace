@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "d2533078cc611f80",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff0c9017d3163117",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "images/2021-05/firefox_0JMtZ0b1be.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ceae318322cc1286",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c030f23ba6c8740",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b7924900c9961c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "02d525ea91a531e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72baa0d0b4689d9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f840245b9cbe5b69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91910862cd11fcb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "images/2021-05/firefox_0JMtZ0b1be.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82d2eefd24c3442f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ff0c9017d3163117",
+  "lastOpenFiles": [
+    "images/2021-05/firefox_0JMtZ0b1be.png",
+    "images/2021-05/firefox_0Yi6gngvbn.png",
+    "images/2021-05/firefox_0yhizJqog9.png",
+    "HA Architecture.md",
+    "EC2 - Lab1.md",
+    "Database Lab.md",
+    "10_Serverless.md",
+    "09_Security.md",
+    "08_Applications.md",
+    "06_VPC.md"
+  ]
+}
